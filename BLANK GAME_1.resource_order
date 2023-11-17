@@ -16,5 +16,9 @@
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
   ],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"Player_Sprite_Test","order":17,"path":"sprites/Player_Sprite_Test/Player_Sprite_Test.yy",},
+    {"name":"Object1","order":16,"path":"objects/Object1/Object1.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+  ],
 }
