@@ -11,8 +11,8 @@ move_and_collide(_xinput * Player_Speed, _yinput * Player_Speed, obj_wall);
 		
 		
 //Move in the direction of the key pressed first 
-//x += dir_x * Player_Speed;
-//y += dir_y * Player_Speed;
+x += dir_x * Player_Speed;
+y += dir_y * Player_Speed;
 
 //resets the direction when no keys are pressed 
 if(!Move_Left && !Move_Right){
